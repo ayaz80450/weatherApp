@@ -6,7 +6,7 @@
   View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
  </p>
  <p align="center">
-  View <a href="[https://master.d2gxbs6vwhkz68.amplifyapp.com/"](https://weather-app-ic4z.vercel.app/)>Live demo</a>.
+  View <a href="[[https://master.d2gxbs6vwhkz68.amplifyapp.com/](https://weather-app-ic4z.vercel.app/)"](https://weather-app-ic4z.vercel.app/)>Live demo</a>.
  </p>
 
 ## Setup
